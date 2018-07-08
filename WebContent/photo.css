@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.my_photo{
+	margin : 0 auto;
+	border-bottom : solid 3px gray;
+	width : 1000px;
+
+}
+
+.photo{
+	line-height: 500px;
+	display : inline-block;
+}
+.photo_img{
+
+	vertical-align:middle;
+	border : solid 4px gray;
+}
+.photo_discription{
+	display : inline-block;
+	
+}
+.photo_discription > p {
+	width : 500px;
+	heigth : 500px;
+	text-align:left;
+}

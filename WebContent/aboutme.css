@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+section{
+	margin : 0 auto;
+	width : 600px;
+}
+section > p{
+	text-align : left;
+	margin-top : 0px;
+	margin-bottom : 30px;
+}
+
+section > h1{
+	margin-bottom : 0px;
+}

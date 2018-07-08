@@ -1,0 +1,23 @@
+@charset "UTF-8";
+li{
+	text-align : center;
+	display : inline;
+	background-color: #008000;
+	box-shadow :  10px 10px  #8080c0;
+}
+.header_nav_li{
+	padding-right : 30px;
+	padding-left : 30px;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	
+}
+ul {
+	display : inline-block;
+	1width : 500px;
+	list-style:none;
+}
+.header_nav{
+	text-align : right;
+	margin-bottom : 40px;
+}
